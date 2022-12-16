@@ -11,6 +11,7 @@ import java.util.List;
 
 @Service
 class EmployeesSalariesReportService {
+    // Dependencies required
     private final EmployeeDao employeeDao;
     private final EmployeeSalaryCalculator employeeSalaryCalculator;
     private final SalaryReport salaryReport;

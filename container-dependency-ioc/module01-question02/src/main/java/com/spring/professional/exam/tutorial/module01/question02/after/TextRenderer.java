@@ -14,7 +14,10 @@ class TextRenderer {
     private final FontColorRenderer fontColorRenderer;
     private final FontWeightRenderer fontWeightRenderer;
 
-    private TextRenderer(FontStyleRenderer fontStyleRenderer, FontColorRenderer fontColorRenderer, FontWeightRenderer fontWeightRenderer) {
+    private TextRenderer(
+            FontStyleRenderer fontStyleRenderer,
+            FontColorRenderer fontColorRenderer,
+            FontWeightRenderer fontWeightRenderer) {
         this.fontStyleRenderer = fontStyleRenderer;
         this.fontColorRenderer = fontColorRenderer;
         this.fontWeightRenderer = fontWeightRenderer;
@@ -22,7 +25,6 @@ class TextRenderer {
 
     void render(String text) {
         String renderedText = applyRendering(text, fontStyleRenderer, fontColorRenderer, fontWeightRenderer);
-
         System.out.println(renderedText);
     }
 
