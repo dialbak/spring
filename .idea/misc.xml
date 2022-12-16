@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/module01-container-ioc/module01-question06/module01-question06-web-servlet2" />
+    <file type="web" url="file://$PROJECT_DIR$/module01-container-ioc/module01-question06/module01-question06-web-servlet3-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/module01-container-ioc/module01-question06/module01-question06-web-servlet3-xml" />
+    <file type="web" url="file://$PROJECT_DIR$/module01-container-ioc/module01-question09/module01-question09-web" />
+    <file type="web" url="file://$PROJECT_DIR$/module01-container-ioc/module01-question10/module01-question10-scopes-web" />
+    <file type="web" url="file://$PROJECT_DIR$/module01-container-ioc/module01-question32/module01-question32-servlet-container" />
+    <file type="web" url="file://$PROJECT_DIR$/module03-jdbc-transaction-jpa/module03-question02/module03-question02-application-server" />
+    <file type="web" url="file://$PROJECT_DIR$/module04-spring-boot/module04-question14/module04-question14-war" />
+    <file type="web" url="file://$PROJECT_DIR$/module05-mvc-webLayer/module05-question02/module05-question02-dispatcher-servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/module05-mvc-webLayer/module05-question02/module05-question02-my-servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/module06-security/module06-question03/module06-question03-web-servlet2" />
+    <file type="web" url="file://$PROJECT_DIR$/module06-security/module06-question03/module06-question03-web-servlet3" />
+    <file type="web" url="file://$PROJECT_DIR$/module07-rest/module07-question17" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
